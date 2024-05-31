@@ -5,6 +5,7 @@ import sys
 
 
 def main():
+    "new line"
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'agazh.settings')
     try:
